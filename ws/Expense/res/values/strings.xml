@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Expense</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+
+    <string-array name="names">
+        <item>早餐</item>
+        <item>午餐</item>
+        <item>飲料</item>
+        <item>晚餐</item>
+    </string-array>
+
+    <string name="title_activity_expense">ExpenseActivity</string>
+    <string name="title_activity_list_expense">ListExpenseActivity</string>
+
+</resources>

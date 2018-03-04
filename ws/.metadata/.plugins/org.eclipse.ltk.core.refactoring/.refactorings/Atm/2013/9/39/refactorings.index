@@ -1,0 +1,4 @@
+1380180711085	Convert local variable 'uid' to field
+1380180751571	Convert local variable 'upw' to field
+1380183455884	Convert local variable 'accountCheckBox' to field
+1380183461644	Convert local variable 'passwordCheckBox' to field

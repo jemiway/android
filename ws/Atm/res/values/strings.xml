@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Atm</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_func">FuncActivity</string>
+    <string name="pref_save_userid">SAVE_USERID</string>
+    <string name="pref_save_passwd">SAVE_PASSWD</string>
+    <string name="pref_userid">USERID</string>
+    <string name="pref_passwd">PASSWD</string>
+    <string name="title_activity_balance">BalanceActivity</string>
+    <string name="title_activity_history">HistoryActivity</string>
+    <string name="title_activity_google">GoogleActivity</string>
+    <string name="title_activity_weather">WeatherActivity</string>
+    <color name="stock_up">#FF0000</color>
+    <color name="stock_down">#00FF00</color>
+
+</resources>
